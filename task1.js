@@ -1,3 +1,4 @@
+/* MYAPP module */
 var MYAPP = (function () {
     return {
         hello: function () {
